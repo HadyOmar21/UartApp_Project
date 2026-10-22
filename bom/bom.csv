@@ -1,0 +1,6 @@
+﻿Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+Arduino Uno,Arduino Uno Rev3,1,Arduino,A000066,https://docs.arduino.cc/hardware/uno-rev3/,350,350
+LED,"Red LED, 5mm",1,,,,1,1
+Resistor,"220 Ohm, 0.25W",2,,,,0.5,1
+Switch,Tactile Push Button Switch,1,,,,1,1
+Jumper WiresMale-to-Female,,5,,,,1,5
