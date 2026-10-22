@@ -8,7 +8,8 @@ Supported commands:
 - led_off — turn the LED off.
 The application reports button_pressed and button_released when it detects a button-state change. Commands are terminated by a carriage return (\r) or line feed (\n).
 2. Project Code
-
+GitHub Repository:
+https://github.com/HadyOmar21/UartApp_Project
 Local Code Directory:
 [Code](/Code/)
 
